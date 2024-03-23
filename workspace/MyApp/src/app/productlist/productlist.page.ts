@@ -15,7 +15,7 @@ export class ProductlistPage implements OnInit {
 
   products: Product[]=[];
 
-  productsService= inject(ProductsService);
+  productsService=inject(ProductsService)
 
  async ngOnInit() {
     const response = await this.productsService.getALL();

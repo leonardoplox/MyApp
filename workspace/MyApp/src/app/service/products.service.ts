@@ -24,7 +24,7 @@ export class ProductsService {
 
   getALL(): Promise<ApiResponse>{
     return firstValueFrom(
-      this.httpClient.get<ApiResponse>('https/:peticiones.online/api/products')
+      this.httpClient.get<ApiResponse>('https://peticiones.online/api/products')
     )
   }
 

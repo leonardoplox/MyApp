@@ -15,15 +15,17 @@
   </ion-header>
 
   <ion-list>
-    @for (product of products; track product._id){
-      <ion-item>
+      <ion-item *ngFor="let product of products">
+        <ion-thumbnail slot="start">
+          <img [src]="product.image" [alt]="product.name">
+        </ion-thumbnail>
         <ion-label>
-          <h2>{{product.name}}</h2>
-          <p>{{product.description}}</p>
+          <h2>{{ product.name }}</h2>
+          <p>{{ product.description }}</p>
         </ion-label>
 
       </ion-item>
-    }
+    
     
   </ion-list>
  
