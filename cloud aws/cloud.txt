@@ -1,0 +1,13 @@
+¿Que es la nube?
+Los servivios de aws estan en un lugar difuso(no se puede ver), La computación en la nube, ​ conocida también como servicios en la nube
+, informática en la nube, nube de cómputo o simplemente «la nube», es el uso de una red de servidores remotos conectados a internet para
+almacenar, administrar y procesar datos, servidores, bases de datos, redes y software
+¿que es un crm?
+¿que es opennebula?
+
+¿Que es el Saas?
+El software como servicio (SaaS) se considera tradicionalmente un modelo de software basado en la nube, el cual ofrece aplicaciones a los
+usuarios finales a través de un navegador de Internet. Los proveedores de SaaS alojan servicios y aplicaciones para que los clientes
+puedan acceder a ellos bajo demanda.
+
+¿Gobierno de TI?

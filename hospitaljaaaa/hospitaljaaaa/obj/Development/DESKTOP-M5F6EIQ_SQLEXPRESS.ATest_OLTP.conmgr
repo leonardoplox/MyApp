@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-M5F6EIQ_SQLEXPRESS.ATest_OLTP"
+  DTS:DTSID="{8FFB643E-472F-4437-8478-6F0621255597}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-M5F6EIQ\SQLEXPRESS;Initial Catalog=ATest_OLTP;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-hospitaljaaaa-{8FFB643E-472F-4437-8478-6F0621255597}DESKTOP-M5F6EIQ\SQLEXPRESS.ATest_OLTP;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
